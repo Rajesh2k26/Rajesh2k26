@@ -69,11 +69,11 @@
 
 <!-- Replace YOUR_USERNAME in the four widget URLs below with your GitHub username. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh2k26&show_icons=true&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh2k26&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshk2k26&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshk2k26&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ## 🌱 Building Consistency
