@@ -3,10 +3,10 @@
   Replace bracketed values and placeholder links before publishing.
 -->
 
-<h1 align="center">Hi, I'm Rajesh K 👋</h1>
+<h1 align="center">Hi, I'm Rajesh.. 👋</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate • Builder • Design-minded Developer</b>
+  <b>Computer Science Student • Builder • Design-minded Developer</b>
 </p>
 
 <p align="center">
@@ -34,6 +34,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
