@@ -73,7 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh2k26&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshk2k26&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh2k26&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ## 🌱 Building Consistency
